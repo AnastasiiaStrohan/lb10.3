@@ -1,0 +1,2 @@
+﻿  zodiak.cpp
+C:\Users\Admin\source\repos\lb10.3\lb10.3\zodiak.cpp(1,10): error C1083: Cannot open include file: 'pch.h': No such file or directory
